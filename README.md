@@ -1,5 +1,6 @@
-### Hi, My name is Kyla and I am a second degree student at UBC 👋
+### Hi, My name is Kyla 👋
 ********
+I am currently a 4th year computer science student at the University Of British Columbia. I obtained a bachelors degree from UBC in the biological sciences in 2018 and decided to pursue software development after taking a python course in my final year. I am very passionate about both genetics and software development. I am interested in game design, machine learning, algorithms and coding for social good. 
 
 **Languages I'm Comfortable With**
 - Python
