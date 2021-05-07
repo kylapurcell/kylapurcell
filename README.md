@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Languages I know...
+🔭 Languages I know...
 - Python
 - Javascript
 - Html/CSS
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - C++
 - C
 
-- 🌱 I’m currently learning...
+🌱 I’m currently learning...
 - Typescript 
 
 
-- 💬 I'm currently working on... 
+💬 I'm currently working on... 
 - [Frogger](https://github.com/kylapurcell/Frogger), a reimagination of the popular 1980s arcade game using Java 
 
 
