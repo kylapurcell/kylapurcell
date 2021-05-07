@@ -9,7 +9,7 @@
 - C++
 - C
 
-**Languages I’m currently Learning**
+**Languages I’m Currently Learning**
 - Typescript 
 
 
